@@ -1,6 +1,6 @@
 # weka_cist_nb
 
-[解説](https://github.com/gishi-yama/weka_cist_nb/raw/master/docs/weka_cist.pdf)
+このプロジェクトは、 [john-smith/weka_cist](https://github.com/john-smith/weka_cist) を教室で試せるように、Mavenを使わずに実行できるようにしたものである。
 
 一部の操作方法を下に置き換える。
 
