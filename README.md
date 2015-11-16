@@ -1,6 +1,6 @@
 # weka_cist_nb
 
-[解説](https://github.com/gishi-yama/weka_cist_nb/blob/master/docs/weka_cist.pdf)
+[解説](https://github.com/gishi-yama/weka_cist_nb/raw/master/docs/weka_cist.pdf)
 
 一部の操作方法を下に置き換える。
 
